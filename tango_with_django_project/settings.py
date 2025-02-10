@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 
 import os
 
+
 #Redirects users who are not logged in
 LOGIN_URL = 'rango:login'
 
